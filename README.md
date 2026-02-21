@@ -1,5 +1,4 @@
 # DOM Lista Interactiva
-
 Proyecto web desarrollado con HTML, CSS y JavaScript que demuestra el uso de la manipulación del DOM mediante una lista interactiva.
 
 # Tecnologías utilizadas
